@@ -115,6 +115,7 @@ the SDK comes in form of an .aar
     called, deviceImageResultAvailable() or deviceImageResultExtendedAvailable() will supply a final scan image to the 
     application.
     
-[Click for more Information about the classes/interfaces andtheir methods ](../blob/master/IBScanUltimate API Manual for Java (and Android).pdf)
+    
+ [Click for more Information about the classes/interfaces andtheir methods ](../blob/master/IBScanUltimate API Manual for Java (and Android).pdf)
     
     
