@@ -89,7 +89,7 @@ the SDK comes in form of an .aar
 
     
   
-<a name="ibscan"></a> IBScan
+  ### <a name="ibscan"></a> IBScan
     
   The single instance of this class may be gotten with getInstance(). The application will typically register a IBScanListener   to receive notifications for events such as devic e count change and device communication failure. Device instances should     be obtai ned by either the blocking openDevice() method or non- blocking openDeviceAsync() method.
   On Android, the Activity accessing IB scanners must set the context for operations with setContext(). Several more Android-   specific functions are provided to manage USB devices.
