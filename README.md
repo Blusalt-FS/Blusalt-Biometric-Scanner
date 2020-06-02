@@ -116,6 +116,6 @@ the SDK comes in form of an .aar
     application.
     
     
- [Click for more Information about the classes/interfaces andtheir methods ](../blob/master/IBScanUltimate API Manual for Java (and Android).pdf)
+ [Click for more Information about the classes/interfaces andtheir methods ](/blob/master/IBScanUltimate%20API%20Manual%20for%20Java%20(and%20Android).pdf)
     
     
